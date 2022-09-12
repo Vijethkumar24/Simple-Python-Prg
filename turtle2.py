@@ -16,6 +16,6 @@ alex.forward(60);
 destination="west"
 alex.backward(60);
 destination="invalid"
-alex.write("invalid distination")
+alex.write("invalid destination")
 
                         
